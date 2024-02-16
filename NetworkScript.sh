@@ -16,3 +16,11 @@ ping -t 4 www.google.com
 
 
 echo "----------"
+
+
+#Display Network Interfaces and Ip Addreses
+
+
+echo "2.Displaying Netowrk Interfaces an Ip Addreses"
+ipconfig
+echo "..........."
