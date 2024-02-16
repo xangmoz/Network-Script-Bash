@@ -24,3 +24,10 @@ echo "----------"
 echo "2.Displaying Netowrk Interfaces an Ip Addreses"
 ipconfig
 echo "..........."
+
+
+#Display Routing Table
+
+echo "3. Displaying Routing Table"
+netstat -rn
+echo "........."
